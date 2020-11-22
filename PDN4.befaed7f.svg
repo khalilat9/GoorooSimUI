@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,0 L158,0 C166.836,0 174,7.163 174,16 L174,158 C174,166.837 166.836,174 158,174 L16,174 C7.163,174 0,166.837 0,158 L0,16 C0,7.163 7.163,0 16,0 Z" id="path-1"></path>
+        <path d="M18.409,16.269 C19.284,5.423 27.659,0 37.001,0 C46.343,0 54.716,5.423 55.593,16.269 C56.051,21.931 54.956,35.325 52.528,40.395 C50.406,44.83 45.461,49.09 39.984,50.547 C37.333,51.003 36.67,51 34.019,50.547 C28.54,49.092 23.597,44.83 21.473,40.395 C19.045,35.325 17.949,21.931 18.409,16.269 Z M13.169,56.344 L20.407,53.002 C30.807,61.99 43.194,61.99 53.594,53.002 L60.832,56.344 C67.425,59.388 74,64.776 74,72.114 L74,93.311 C74,96.973 71.02,100 67.416,100 L6.584,100 C2.98,100 0,96.991 0,93.311 L0,72.114 C0,64.755 6.575,59.389 13.169,56.344 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5">
+            <g id="Group-4">
+                <g id="Group-17">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-16"></g>
+                    <polygon id="Fill-15" fill="#EA4A65" mask="url(#mask-2)" points="-0.02 174.02 174.1 174.02 174.1 -0.1 -0.02 -0.1"></polygon>
+                </g>
+                <g id="Group-63" transform="translate(50.000000, 34.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-62"></g>
+                    <polygon id="Fill-61" fill="#FFFFFE" mask="url(#mask-4)" points="-0.1 100.06 74.06 100.06 74.06 -0.02 -0.1 -0.02"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

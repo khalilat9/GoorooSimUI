@@ -1,0 +1,30 @@
+<svg width="135" height="174" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+ <title>Group 12</title>
+ <desc>Created with Sketch.</desc>
+ <defs>
+  <path id="path-1" d="m15.88987,14.04272c0.75527,-9.36181 7.98421,-14.04272 16.04784,-14.04272c8.06362,0 15.29084,4.68091 16.04783,14.04272c0.39532,4.8872 -0.54983,16.44833 -2.64558,20.82454c-1.83162,3.82897 -6.09994,7.50516 -10.82745,8.76278c-2.28824,0.39274 -2.86051,0.39101 -5.14874,0c-4.72924,-1.25676 -8.99583,-4.93381 -10.82918,-8.76278c-2.09575,-4.37621 -3.04177,-15.93734 -2.64472,-20.82454zm-4.52381,34.59105l6.2484,-2.88468c8.97685,7.75807 19.66878,7.75807 28.64562,0l6.24668,2.88468c5.69166,2.62745 11.36692,7.27815 11.36692,13.612l0,18.29636c0,3.16088 -2.57221,5.77366 -5.68303,5.77366l-52.50762,0c-3.11082,0 -5.68303,-2.59724 -5.68303,-5.77366l0,-18.29636c0,-6.35198 5.67526,-10.98369 11.36606,-13.612z"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="Page-1">
+   <g stroke="null" id="11">
+    <g stroke="null" id="Group-12">
+     <path stroke="#ED4962" stroke-width="10" id="Stroke-94" d="m67.14737,169c34.32261,0 62.14737,-36.71269 62.14737,-82c0,-45.28731 -27.82476,-82 -62.14737,-82c-34.32348,0 -62.14737,36.71269 -62.14737,82c0,45.28731 27.82389,82 62.14737,82z"/>
+     <g stroke="null" id="Group-97">
+      <mask stroke="null" transform="translate(31.073684692382812,37.978946685791016) translate(25,5) translate(-20,0) translate(5,169) scale(1) translate(-5,-169) " id="mask-2">
+       <use stroke="null" id="svg_1" xlink:href="#path-1"/>
+      </mask>
+      <g stroke="null" id="Clip-96"/>
+      <polygon stroke="null" points="35.987369537353516,129.3810577392578 99.99916076660156,129.3810577392578 99.99916076660156,42.89263153076172 35.987369537353516,42.89263153076172 " mask="url(#mask-2)" fill="#EA4A65" id="Fill-95"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <text stroke="#000" transform="matrix(5.39218245285042,0,0,5.532482766087323,-273.30062188096963,-257.4797295080367) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="70.36862" x="56.55636" stroke-width="0" fill="#ed1515">?</text>
+ </g>
+</svg>

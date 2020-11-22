@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 76</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,0 L158,0 C166.836,0 174,7.163 174,16 L174,158 C174,166.837 166.836,174 158,174 L16,174 C7.163,174 0,166.837 0,158 L0,16 C0,7.163 7.163,0 16,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="55">
+            <g id="Group-76">
+                <g id="Group-256">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-255"></g>
+                    <path d="M16,0 L158,0 C166.837,0 174,7.163 174,16 L174,158 C174,166.837 166.837,174 158,174 L16,174 C7.163,174 0,166.837 0,158 L0,16 C0,7.163 7.163,0 16,0 Z" id="Stroke-254" stroke="#ED4962" stroke-width="20" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M68.409,50.269 C69.284,39.423 77.659,34 87.001,34 C96.343,34 104.716,39.423 105.593,50.269 C106.051,55.931 104.956,69.325 102.528,74.395 C100.406,78.83 95.461,83.09 89.984,84.547 C87.333,85.003 86.67,85 84.019,84.547 C78.54,83.092 73.597,78.83 71.473,74.395 C69.045,69.325 67.949,55.931 68.409,50.269 Z" id="Path" stroke="#ED4962" stroke-width="10"></path>
+                <path d="M63.168,98.344 L70.407,95.002 C80.807,103.99 93.194,103.99 103.594,95.002 L110.831,98.344 C117.425,101.388 124,106.776 124,114.114 L124,135.311 C124,138.973 121.02,142 117.416,142 L56.584,142 C52.98,142 50,138.991 50,135.311 L50,114.114 C50,106.755 56.575,101.389 63.168,98.344 Z" id="Path" stroke="#ED4962" stroke-width="10"></path>
+                <polygon id="Fill-284" fill="#EA4A65" points="46 132 128 132 128 116 46 116"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
