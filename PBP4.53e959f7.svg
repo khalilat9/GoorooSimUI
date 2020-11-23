@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="174px" height="174px" viewBox="0 0 174 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
-    <title>Group 61</title>
-    <desc>Created with Sketch.</desc>
+<svg width="202px" height="202px" viewBox="0 0 202 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled</title>
     <defs>
-        <path d="M16,0 L158,0 C166.837,0 174,7.163 174,16 L174,158 C174,166.837 166.837,174 158,174 L16,174 C7.163,174 0,166.837 0,158 L0,16 C0,7.163 7.163,0 16,0 Z" id="path-1"></path>
-        <path d="M18.409,16.269 C19.284,5.423 27.659,0 37.001,0 C46.343,0 54.716,5.423 55.593,16.269 C56.051,21.931 54.956,35.325 52.528,40.395 C50.406,44.83 45.461,49.09 39.984,50.547 C37.333,51.003 36.67,51 34.019,50.547 C28.54,49.092 23.597,44.83 21.473,40.395 C19.045,35.325 17.949,21.931 18.409,16.269 Z M13.169,56.344 L20.407,53.002 C30.807,61.99 43.194,61.99 53.594,53.002 L60.831,56.344 C67.425,59.388 74,64.776 74,72.114 L74,93.311 C74,96.973 71.02,100 67.416,100 L6.584,100 C2.98,100 0,96.991 0,93.311 L0,72.114 C0,64.755 6.575,59.389 13.169,56.344 Z" id="path-3"></path>
+        <path d="M158,0 C166.837,0 174,7.163 174,16 L174,158 C174,166.837 166.837,174 158,174 L16,174 C7.163,174 0,166.837 0,158 L0,16 C0,7.163 7.163,0 16,0 L158,0 Z" id="path-1"></path>
+        <path d="M53.594,53.002 L60.831,56.344 C67.425,59.388 74,64.776 74,72.114 L74,93.311 C74,96.973 71.02,100 67.416,100 L6.584,100 C2.98,100 0,96.991 0,93.311 L0,72.114 C0,64.755 6.575,59.389 13.169,56.344 L20.407,53.002 C30.807,61.99 43.194,61.99 53.594,53.002 Z M37.001,0 C46.343,0 54.716,5.423 55.593,16.269 C56.051,21.931 54.956,35.325 52.528,40.395 C50.406,44.83 45.461,49.09 39.984,50.547 C37.333,51.003 36.67,51 34.019,50.547 C28.54,49.092 23.597,44.83 21.473,40.395 C19.045,35.325 17.949,21.931 18.409,16.269 C19.284,5.423 27.659,0 37.001,0 Z" id="path-3"></path>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="45">
-            <g id="Group-61">
-                <g id="Group-214">
-                    <mask id="mask-2" fill="white">
-                        <use xlink:href="#path-1"></use>
-                    </mask>
-                    <g id="Clip-213"></g>
-                    <path d="M16,0 L158,0 C166.837,0 174,7.163 174,16 L174,158 C174,166.837 166.837,174 158,174 L16,174 C7.163,174 0,166.837 0,158 L0,16 C0,7.163 7.163,0 16,0 Z" id="Stroke-212" stroke="#ED4962" stroke-width="20" mask="url(#mask-2)"></path>
-                </g>
-                <g id="Group-244" transform="translate(50.000000, 34.000000)">
-                    <mask id="mask-4" fill="white">
-                        <use xlink:href="#path-3"></use>
-                    </mask>
-                    <g id="Clip-243"></g>
-                    <polygon id="Fill-242" fill="#EA4A65" mask="url(#mask-4)" points="-0.06 100.06 74.1 100.06 74.1 -0.02 -0.06 -0.02"></polygon>
-                </g>
-                <polygon id="Fill-306" fill="#FFFFFF" points="32 122 138 122 138 106 32 106"></polygon>
-            </g>
+        <g id="Group-214" transform="translate(14.000000, 14.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-213"></g>
+            <path d="M16,0 L158,0 C166.837,0 174,7.163 174,16 L174,158 C174,166.837 166.837,174 158,174 L16,174 C7.163,174 0,166.837 0,158 L0,16 C0,7.163 7.163,0 16,0 Z" id="Stroke-212" stroke="#ED4D62" stroke-width="20" mask="url(#mask-2)"></path>
         </g>
+        <g id="Group-244" transform="translate(64.000000, 48.000000)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Clip-243"></g>
+            <polygon id="Fill-242" fill="#EA4D64" mask="url(#mask-4)" points="-0.06 100.06 74.1 100.06 74.1 -0.02 -0.06 -0.02"></polygon>
+        </g>
+        <polygon id="Fill-306" fill="#FFFFFF" points="46 136 152 136 152 120 46 120"></polygon>
+        <rect id="Rectangle" opacity="0" x="0" y="0" width="202" height="202"></rect>
     </g>
 </svg>
